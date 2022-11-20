@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b90263f-9128-4763-bcbc-d764b0dd1e77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../class_static_methods_Excer/gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../classes_&amp;_Objects_excercise/guild_system/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../classes_&amp;_Objects_excercise/guild_system/project/guild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../classes_&amp;_Objects_excercise/guild_system/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../classes_&amp;_Objects_excercise/spoopify/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../decorators_lab/demo_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../decorators_lab/fibonacci_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../iterators_generators/take_skip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="21afndvvi7eKr5nCDGpYQJeIgrb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b90263f-9128-4763-bcbc-d764b0dd1e77" name="Changes" comment="" />
+      <created>1638184286591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638184286591</updated>
+      <workItem from="1638184287734" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
